@@ -1,0 +1,14 @@
+name: delta-encoder
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - python=2.7
+  - scikit-learn
+  - cudatoolkit=9.0=h13b8566_0
+  - cudnn=7.1.2=cuda9.0_0
+  - tensorflow-gpu=1.7.0=0
+
+
+
